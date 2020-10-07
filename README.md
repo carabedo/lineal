@@ -16,6 +16,11 @@ de videos del canal [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFR
 <iframe width="800" height='480' src="https://www.youtube.com/embed/fNk_zzaMoSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+Aca vemos la representacion de un vector y las operaciones basicas: suma entre vectores y multiplicacion por una constante.
+
+
+
+
 # Combinaciones lineal, bases
 
 # Transformaciones lineales 
