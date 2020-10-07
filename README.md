@@ -3,6 +3,12 @@
 A continuacion vamos a repasar y jugar con algunos conceptos que se muestran en la maravillosa [serie](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 de videos del canal [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
+* Vectores
+* Combinaciones lineal, bases
+* Transformaciones lineales 
+* Mulplicacion de matrices
+* Determinante
+* Matriz Inversa
 
 
 # Vectores
